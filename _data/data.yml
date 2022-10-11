@@ -97,7 +97,13 @@ experiences:
           Ansible Automation Architect supporting multiple Fortune 500 customers 
           with their automation needs.
             - Ansible Automation Platform
+              - Ansible
+              - Ansible-lint
+              - Ansible-Navigator
+              - Custom Collections
+              - Custom Modules
             - Terraform
+            - GitHub Actions
             - Python
       - role: Sr Systems Engineer II
         time: Jan 2017 - Dec 2020
@@ -183,7 +189,7 @@ projects:
         tagline:
 
 publications:
-    title: Publications
+    title: Publications & Presentations
     intro: |
       Here are some of the talks that I have presented.
     papers:
