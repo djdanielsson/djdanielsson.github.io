@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: David Danielsson
     tagline: Ansible Automation Architect
-    avatar: me.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: me.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: djdanielsson@gmail.com
@@ -39,14 +39,29 @@ sidebar:
     interests:
       title: Certifications
       info:
-        - item: RHCA
-          link:
+        - item: Red Hat Certified Architect
+          link: https://www.credly.com/badges/37025be4-46ea-4e0a-8212-79af9c8251b6
 
-        - item: RHCE
-          link:
+        - item: "Red Hat Certified Specialist in Advanced Automation: Ansible Best Practices"
+          link: https://www.credly.com/badges/15b0b7c9-7e45-4040-b347-bd2313a4052d
 
-        - item: RHCSA
-          link:
+        - item: Red Hat Certified Specialist in Developing Automation with Ansible Automation Platform
+          link: https://www.credly.com/badges/02d18f52-6611-450f-8fb2-6cf8d62ed7f2
+
+        - item: Red Hat Certified Specialist in Ansible Network Automation
+          link: https://www.credly.com/badges/49f837bc-ebc1-4350-92e0-fabce5f20776
+
+        - item: Red Hat Certified Specialist in Containers and Kubernetes
+          link: https://www.credly.com/badges/1406dc54-3fa9-44f3-b802-4643ac8d837a
+
+        - item: Red Hat Certified Specialist in Deployment and Systems Management
+          link: https://www.credly.com/badges/b5bedeee-66a7-48d1-9499-240d5faa47ea
+
+        - item: Red Hat Certified Engineer
+          link: https://www.credly.com/badges/e2015dce-52bf-4587-9d3b-90494b6174bf
+
+        - item: Red Hat Certified System Administrator
+          link: https://www.credly.com/badges/fd6e28a8-0980-459e-bcc4-6040be244067
 
 career-profile:
     title: Career Profile
