@@ -1,6 +1,6 @@
 ## CAREER PROFILE
 
-I love Automation, Open Source, and Linux. The perfict combination of these three are Ansible and Terraform with a bit of Kubernetes. I love to problem solve and create solutions.
+I love Automation, Open Source, and Linux. The perfect combination of these three are Ansible and Terraform with a bit of Kubernetes. I love to problem solve and create solutions.
 
 ## EXPERIENCES
 
