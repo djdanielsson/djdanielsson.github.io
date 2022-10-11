@@ -21,7 +21,7 @@ sidebar:
     xing: 
     github: djdanielsson
     telegram: djdanielsson
-    matrix: djdanielsson:matrix.org
+    matrix: "djdanielsson:matrix.org"
     gitlab: djdanielsson
     bitbucket:
     twitter: 
@@ -66,12 +66,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I love Automation, Open Source, and Linux. The perfict combination of these three
+      are Ansible and Terraform with a bit of Kubernetes. I love to problem solve and
+      create solutions.
 education:
     title: Education
     info:
@@ -123,16 +120,12 @@ experiences:
         time: May 2016 - Dec 2016
         company: Jacobs Technology, Ridgecrest, CA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          Systems Administrator for 50 RHEL based systems.
             - Reviewed STIG compliance
             - Built up webservers
             - Built up email server
             - Installed and Configured Issue Ticketing/Tracking Software (JIRA)
-            - Tested upgrading to CentOS7 from Oracle 6.7
+            - Tested upgrading to CentOS 7 from Oracle 6.7
             - Managed permissions on NAS
             - Managed user accounts
             - Worked with/wrote Ansible scripts
@@ -140,11 +133,7 @@ experiences:
         time: May 2014 - May 2016
         company: Jacobs Technology, Ridgecrest, CA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          SCM for a large SVN repository.
             - Updated and maintain SVN repository
             - Extensive work with Linux Operating System
             - Updated documentation, policies and procedures
@@ -155,11 +144,6 @@ experiences:
         time: Jan 2014 - May 2014
         company: NDTI, Ridgecrest, CA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
             - Performing backups on essential computers
             - Working with VMS systems
             - Scanning and hardening Windows OS using Retina and manually installing updates
@@ -193,24 +177,17 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Here are some of the talks that I have presented.
     papers:
-      - title: The Art of Computer Programming
+      - title: The Home Depot transforms network infrastructure with NVIDIA Cumulus Linux 5 via new NVUE module
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Brad Harrell, David Danielsson, Roberto Nozaki
+        conference: AnsibleFest 2022
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Working with complex APIs: when no modules exist"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Vinny Valdez, David Danielsson
+        conference: "AnsibleFest 2021"
 
 skills:
     title: Skills &amp; Proficiency
@@ -220,6 +197,9 @@ skills:
         level: 98%
 
       - name: Yaml
+        level: 95%
+
+      - name: Problem solving
         level: 95%
 
       - name: Bash
