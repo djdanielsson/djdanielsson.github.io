@@ -1,67 +1,96 @@
-<a href="https://jekyll-themes.com">
-<img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
-</a>
+## CAREER PROFILE
 
-# Orbit
-> This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
-> Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
+I love Automation, Open Source, and Linux. The perfict combination of these three are Ansible and Terraform with a bit of Kubernetes. I love to problem solve and create solutions.
 
-I have made this into a Jekyll Theme. Checkout the live demo [here](https://online-cv.webjeda.com).
+## EXPERIENCES
 
-<table>
-  <tr>
-    <th>Desktop</th>
-    <th>Mobile</th>
-  </tr>
-  <tr>
-    <td>
-        <img src="https://online-cv.webjeda.com/assets/images/desktop.png?raw=true" width="600"/>
-    </td>
-    <td>
-        <img src="https://online-cv.webjeda.com/assets/images/mobile.png?raw=true" width="250"/>
-    </td>
-  </tr>
-</table>
+Ansible Automation Architect
+Jan 2021 - Present
+Red Hat, Remote
+Ansible Automation Architect supporting multiple Fortune 500 customers with their automation needs.
 
-## Installation
+Ansible Automation Platform
+Terraform
+Python
+Sr Systems Engineer II
+Jan 2017 - Dec 2020
+Raytheon, Pensacola FL
+Linux Systems Administrator maintaining over 1,000 Linux servers across multiple sites.
 
-* [Fork](https://github.com/sharu725/online-cv/fork) the repository
-* Go to settings and set master branch as Github Pages source.
-* Your new site should be ready at `https://<username>.github.io/online-cv/`
-* Printable version of the site can be found at `https://<username>.github.io/online-cv/print`. Use a third party link https://pdflayer.com/, https://www.web2pdfconvert.com/ etc to get the printable PDF.
+Managed user accounts using IDM
+Reviewed/updated STIG compliance for RHEL 7
+Provided support with system upgrades/updates
+Provided technical support for end users
+Built up RHEL7 VM servers using VMware ESXi 6 and kickstart
+Managed systems using RH Satellite Server 5&6
+Worked with OpsView/Nagios to monitor systems
+Managed SourceFire Defensive Center 5 systems
+Worked with Puppet for configuration management
+Wrote Ansible Playbooks to automate and configure systems
+Built and worked with Ansible-Tower
+System Administrator
+May 2016 - Dec 2016
+Jacobs Technology, Ridgecrest, CA
+Systems Administrator for 50 RHEL based systems.
 
-Change all the details from one place: ``_data/data.yml``
+Reviewed STIG compliance
+Built up webservers
+Built up email server
+Installed and Configured Issue Ticketing/Tracking Software (JIRA)
+Tested upgrading to CentOS 7 from Oracle 6.7
+Managed permissions on NAS
+Managed user accounts
+Worked with/wrote Ansible scripts
+Software Configuration Manager/Jr. Linux Sys Admin
+May 2014 - May 2016
+Jacobs Technology, Ridgecrest, CA
+SCM for a large SVN repository.
 
-## To preview/edit localy with docker
+Updated and maintain SVN repository
+Extensive work with Linux Operating System
+Updated documentation, policies and procedures
+Wrote Bash and Python scripts
+Tested moving SVN to GIT repository
+Created Network Diagrams
+Computer Operator (2nd & 3rd shift)
+Jan 2014 - May 2014
+NDTI, Ridgecrest, CA
+Performing backups on essential computers
+Working with VMS systems
+Scanning and hardening Windows OS using Retina and manually installing updates
 
-```sh
-docker-compose up
-```
+## CERTIFICATIONS
 
-*docker-compose.yml* file is used to create a container that is reachable under http://localhost:4000.
-Changes *_data/data.yml* will be visible after a while.
+Here is the list of my active certifications.
 
-## Skins
+- Red Hat Certified Architect
+- Red Hat Certified Specialist in Advanced Automation: Ansible Best Practices
+- Red Hat Certified Specialist in Developing Automation with Ansible Automation Platform
+- Red Hat Certified Specialist in Ansible Network Automation
+- Red Hat Certified Specialist in Containers and Kubernetes
+- Red Hat Certified Specialist in Deployment and Systems Management
+- Red Hat Certified Engineer
+- Red Hat Certified System Administrator
+ 
+## PUBLICATIONS
 
-There are 6 color schemes available:
+Here are some of the talks that I have presented.
 
-| Blue | Turquoise | Green |
-|---------|---------|---------|
-| <img src="https://online-cv.webjeda.com/assets/images/blue.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/turquoise.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/green.jpg" width="300"/> |
+The Home Depot transforms network infrastructure with NVIDIA Cumulus Linux 5 via new NVUE module
+Brad Harrell, David Danielsson, Roberto Nozaki
+AnsibleFest 2022
 
-| Berry | Orange | Ceramic |
-|---------|---------|---------|
-| <img src="https://online-cv.webjeda.com/assets/images/berry.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/orange.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/ceramic.jpg" width="300"/> |
+Working with complex APIs: when no modules exist
+Vinny Valdez, David Danielsson
+AnsibleFest 2021
 
-## Credits
+## SKILLS & PROFICIENCY
 
-Thanks to [Nelson Estevão](https://github.com/nelsonmestevao) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=nelsonmestevao).
-
-Thanks to [t-h-e(sfrost)](https://github.com/t-h-e) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=t-h-e).
-
-Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=sharu725/online-cv&type=Date)](https://star-history.com/#sharu725/online-cv&Date)
-
+- Problem solving
+- Ansible
+- Yaml
+- Bash
+- Python
+- Terraform
+- Containers
+- Kubernetes
