@@ -148,31 +148,41 @@ experiences:
             - Working with VMS systems
             - Scanning and hardening Windows OS using Retina and manually installing updates
 projects:
-    title: Projects
+    title: Certifications
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here is the list of my active certifications.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Red Hat Certified Architect
+        link: https://www.credly.com/badges/37025be4-46ea-4e0a-8212-79af9c8251b6
+        tagline:
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: "Red Hat Certified Specialist in Advanced Automation: Ansible Best Practices"
+        link: https://www.credly.com/badges/15b0b7c9-7e45-4040-b347-bd2313a4052d
+        tagline:
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Red Hat Certified Specialist in Developing Automation with Ansible Automation Platform
+        link: https://www.credly.com/badges/02d18f52-6611-450f-8fb2-6cf8d62ed7f2
+        tagline:
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Red Hat Certified Specialist in Ansible Network Automation
+        link: https://www.credly.com/badges/49f837bc-ebc1-4350-92e0-fabce5f20776
+        tagline:
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Red Hat Certified Specialist in Containers and Kubernetes
+        link: https://www.credly.com/badges/1406dc54-3fa9-44f3-b802-4643ac8d837a
+        tagline:
+
+      - title: Red Hat Certified Specialist in Deployment and Systems Management
+        link: https://www.credly.com/badges/b5bedeee-66a7-48d1-9499-240d5faa47ea
+        tagline:
+
+      - title: Red Hat Certified Engineer
+        link: https://www.credly.com/badges/e2015dce-52bf-4587-9d3b-90494b6174bf
+        tagline:
+
+      - title: Red Hat Certified System Administrator
+        link: https://www.credly.com/badges/fd6e28a8-0980-459e-bcc4-6040be244067
+        tagline:
 
 publications:
     title: Publications
@@ -180,12 +190,12 @@ publications:
       Here are some of the talks that I have presented.
     papers:
       - title: The Home Depot transforms network infrastructure with NVIDIA Cumulus Linux 5 via new NVUE module
-        link: "#"
+        link:
         authors: Brad Harrell, David Danielsson, Roberto Nozaki
         conference: AnsibleFest 2022
 
       - title: "Working with complex APIs: when no modules exist"
-        link: "#"
+        link:
         authors: Vinny Valdez, David Danielsson
         conference: "AnsibleFest 2021"
 
@@ -193,13 +203,13 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Problem solving
+        level: 100%
+
       - name: Ansible
         level: 98%
 
       - name: Yaml
-        level: 95%
-
-      - name: Problem solving
         level: 95%
 
       - name: Bash
