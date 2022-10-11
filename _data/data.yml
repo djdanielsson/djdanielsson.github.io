@@ -48,18 +48,6 @@ sidebar:
         - item: Books
           link:
 
-    certifications:
-      title: Certifications
-      info:
-        - item: RHCA
-          link:
-
-        - item: RHCE
-          link:
-
-        - item: RHCSA
-          link:
-
 career-profile:
     title: Career Profile
     summary: |
@@ -102,8 +90,6 @@ experiences:
       - role: Sr Systems Engineer II
         time: Jan 2017 - Dec 2020
         company: Raytheon, Pensacola FL
-        company2: CSRA, Pensacola, FL
-        company1: TEKsystems, Pensacola, FL
         details: |
           Linux Systems Administrator maintaining over 1,000 Linux servers
           across multiple sites.
@@ -233,5 +219,16 @@ skills:
       - name: Sketch & Photoshop
         level: 60%
 
+certifications:
+  title: Certifications
+  info:
+    - item: RHCA
+      link:
+
+    - item: RHCE
+      link:
+
+    - item: RHCSA
+      link:
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
