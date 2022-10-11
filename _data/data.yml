@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: David Danielsson
     tagline: Ansible Automation Architect
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: me.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: djdanielsson@gmail.com
@@ -37,15 +37,15 @@ sidebar:
           level: Native
 
     interests:
-      title: Interests
+      title: Certifications
       info:
-        - item: Computers
+        - item: RHCA
           link:
 
-        - item: Gaming
+        - item: RHCE
           link:
 
-        - item: Books
+        - item: RHCSA
           link:
 
 career-profile:
@@ -219,16 +219,5 @@ skills:
       - name: Sketch & Photoshop
         level: 60%
 
-certifications:
-  title: Certifications
-  info:
-    - item: RHCA
-      link:
-
-    - item: RHCE
-      link:
-
-    - item: RHCSA
-      link:
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
