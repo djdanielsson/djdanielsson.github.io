@@ -1,0 +1,230 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: David Danielsson
+    tagline: Ansible Automation Architect
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: djdanielsson@gmail.com
+    phone: 
+    timezone: America/Chicago Timezone
+    citizenship:
+    website: djdanielsson.github.io
+    linkedin: danielssondavid
+    xing: 
+    github: djdanielsson
+    telegram: djdanielsson
+    matrix: djdanielsson:matrix.org
+    gitlab: djdanielsson
+    bitbucket:
+    twitter: 
+    stack-overflow: 7753416/djdanielsson
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: http://www.africau.edu/images/default/sample.pdf
+
+    languages:
+      title: Languages
+      info:
+        - idiom: English
+          level: Native
+
+    interests:
+      title: Interests
+      info:
+        - item: Computers
+          link:
+
+        - item: Gaming
+          link:
+
+        - item: Books
+          link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
+education:
+    title: Education
+    info:
+      - degree: "B.S. In Computer & Information Sciences: Information Systems"
+        university: The Master’s University
+        time: 2010 - 2013
+        details: |
+          This degree provided good understanding across most of IT. 
+          Some Coursework includes:
+            - Database Management Systems
+            - Advanced Network Security & Cryptology
+            - Website Administration
+            - Network Principles & Architecture
+            - Linux & Unix
+      - degree: A.A General
+        university: Cerro Coso Community College
+        time: 2008 - 2011
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+experiences:
+    title: Experiences
+    info:
+      - role: Ansible Automation Architect
+        time: Jan 2021 - Present
+        company: Red Hat, Remote
+        details: |
+          Ansible Automation Architect supporting multiple Fortune 500 customers 
+          with their automation needs.
+            - Ansible Automation Platform
+            - Terraform
+            - Python
+      - role: Sr Systems Engineer II
+        time: Jan 2017 - Dec 2020
+        company: Raytheon, Pensacola FL
+        details: |
+          Linux Systems Administrator maintaining over 1,000 Linux servers
+          across multiple sites.
+            - Managed user accounts using IDM
+            - Reviewed/updated STIG compliance for RHEL 7
+            - Provided support with system upgrades/updates
+            - Provided technical support for end users
+            - Built up RHEL7 VM servers using VMware ESXi 6 and kickstart
+            - Managed systems using RH Satellite Server 5&amp;6
+            - Worked with OpsView/Nagios to monitor systems
+            - Managed SourceFire Defensive Center 5 systems
+            - Worked with Puppet for configuration management
+            - Wrote Ansible Playbooks to automate and configure systems
+            - Built and worked with Ansible-Tower
+      - role: System Administrator
+        time: May 2016 - Dec 2016
+        company: Jacobs Technology, Ridgecrest, CA
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Reviewed STIG compliance
+            - Built up webservers
+            - Built up email server
+            - Installed and Configured Issue Ticketing/Tracking Software (JIRA)
+            - Tested upgrading to CentOS7 from Oracle 6.7
+            - Managed permissions on NAS
+            - Managed user accounts
+            - Worked with/wrote Ansible scripts
+      - role: Software Configuration Manager/Jr. Linux System Administrator
+        time: May 2014 - May 2016
+        company: Jacobs Technology, Ridgecrest, CA
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Updated and maintain SVN repository
+            - Extensive work with Linux Operating System
+            - Updated documentation, policies and procedures
+            - Wrote Bash and Python scripts
+            - Tested moving SVN to GIT repository
+            - Created Network Diagrams
+      - role: Computer Operator (2nd & 3rd shift)
+        time: Jan 2014 - May 2014
+        company: NDTI, Ridgecrest, CA
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Performing backups on essential computers
+            - Working with VMS systems
+            - Scanning and hardening Windows OS using Retina and manually installing updates
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
+
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
