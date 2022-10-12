@@ -145,6 +145,16 @@ experiences:
             - Performing backups on essential computers
             - Working with VMS systems
             - Scanning and hardening Windows OS using Retina and manually installing updates
+certifications:
+    title: Certifications
+    info:
+      - name: Red Hat Certified Architect
+        dates: Feb 2022 - Mar 2024
+        company: Red Hat
+        details: |
+          Ansible Automation Architect supporting multiple Fortune 500 customers 
+          with their automation needs. Here are a few of the tools and technology 
+          that I worked with creating automation.
 projects:
     title: Certifications
     intro: >
