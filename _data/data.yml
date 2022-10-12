@@ -37,38 +37,23 @@ sidebar:
           level: Native
 
     interests:
-      title: Certifications
+      title: Interests
       info:
-        - item: Red Hat Certified Architect
-          link: https://www.credly.com/badges/37025be4-46ea-4e0a-8212-79af9c8251b6
+        - item: Automation
+          link: 
 
-        - item: "Red Hat Certified Specialist in Advanced Automation: Ansible Best Practices"
-          link: https://www.credly.com/badges/15b0b7c9-7e45-4040-b347-bd2313a4052d
+        - item: Cybersecurity
+          link: 
 
-        - item: Red Hat Certified Specialist in Developing Automation with Ansible Automation Platform
-          link: https://www.credly.com/badges/02d18f52-6611-450f-8fb2-6cf8d62ed7f2
-
-        - item: Red Hat Certified Specialist in Ansible Network Automation
-          link: https://www.credly.com/badges/49f837bc-ebc1-4350-92e0-fabce5f20776
-
-        - item: Red Hat Certified Specialist in Containers and Kubernetes
-          link: https://www.credly.com/badges/1406dc54-3fa9-44f3-b802-4643ac8d837a
-
-        - item: Red Hat Certified Specialist in Deployment and Systems Management
-          link: https://www.credly.com/badges/b5bedeee-66a7-48d1-9499-240d5faa47ea
-
-        - item: Red Hat Certified Engineer
-          link: https://www.credly.com/badges/e2015dce-52bf-4587-9d3b-90494b6174bf
-
-        - item: Red Hat Certified System Administrator
-          link: https://www.credly.com/badges/fd6e28a8-0980-459e-bcc4-6040be244067
+        - item: ML/AI
+          link: 
 
 career-profile:
     title: Career Profile
     summary: |
       I love Automation, Open Source, and Linux. The perfect combination of these three
-      are Ansible and Terraform with a bit of Kubernetes. I love to problem solve and
-      create solutions.
+      are Ansible and Terraform with a bit of Kubernetes. I also love to problem solve 
+      while to designing and building solutions.
 education:
     title: Education
     info:
@@ -95,16 +80,25 @@ experiences:
         company: Red Hat, Remote
         details: |
           Ansible Automation Architect supporting multiple Fortune 500 customers 
-          with their automation needs.
+          with their automation needs. Here are a few of the tools and technology 
+          that I worked with creating automation.
             - Ansible Automation Platform
               - Ansible
               - Ansible-lint
               - Ansible-Navigator
+              - Ansible-builder
               - Custom Collections
               - Custom Modules
+              - Controller/Tower
+              - Private Automation Hub
             - Terraform
             - GitHub Actions
             - Python
+            - ServiceNow
+            - Zabbix, Solarwinds
+            - VMware and Nutanix
+            - RHEL, CentOS, Ubuntu
+            - Cisco NXOS, JunOS, Cumulus
       - role: Sr Systems Engineer II
         time: Jan 2017 - Dec 2020
         company: Raytheon, Pensacola FL
