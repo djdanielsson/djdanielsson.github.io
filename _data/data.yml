@@ -54,6 +54,7 @@ career-profile:
       I love Automation, Open Source, and Linux. The perfect combination of these three
       are Ansible and Terraform with a bit of Kubernetes. I also love to problem solve 
       while to designing and building solutions.
+
 education:
     title: Education
     info:
@@ -72,6 +73,7 @@ education:
         university: Cerro Coso Community College
         time: 2008 - 2011
         details:
+
 experiences:
     title: Experiences
     info:
@@ -145,6 +147,7 @@ experiences:
             - Performing backups on essential computers
             - Working with VMS systems
             - Scanning and hardening Windows OS using Retina and manually installing updates
+
 certifications:
     title: Certifications
     info:
@@ -188,6 +191,7 @@ certifications:
         link: https://www.credly.com/badges/fd6e28a8-0980-459e-bcc4-6040be244067
         company:
         details:
+
 projects:
     title: Certifications
     intro: >
