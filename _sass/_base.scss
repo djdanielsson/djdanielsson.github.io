@@ -226,48 +226,8 @@ p {
   .certifications-section,
   .certifications-section {
     .item {
+      font-size: 13px;
       margin-bottom: 30px;
-    }
-  }
-  .upper-row {
-    position: relative;
-    overflow: hidden;
-    margin-bottom: 2px;
-  }
-  .job-title,
-  .degree {
-    color: $text-color;
-    font-size: 16px;
-    margin-top: 0;
-    margin-bottom: 0;
-    font-weight: 500;
-  }
-  .time {
-    position: absolute;
-    right: 0;
-    top: 0;
-    color: $text-grey;
-  }
-  .company,
-  .university {
-    font-size: 13px;
-    margin-bottom: 10px;
-    color: $text-grey;
-  }
-
-  .project-title {
-    font-size: 16px;
-    font-weight: 400;
-    margin-top: 0;
-    margin-bottom: 5px;
-    color: darken($theme-color, 15%);
-  }
-  .projects-section {
-    .intro {
-      margin-bottom: 30px;
-    }
-    .item {
-      margin-bottom: 15px;
     }
   }
   
