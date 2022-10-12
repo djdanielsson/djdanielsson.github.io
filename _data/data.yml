@@ -150,6 +150,7 @@ certifications:
     info:
       - name: Red Hat Certified Architect
         dates: Feb 2022 - Mar 2024
+        link: https://www.credly.com/badges/37025be4-46ea-4e0a-8212-79af9c8251b6
         company: Red Hat
         details: |
           Ansible Automation Architect supporting multiple Fortune 500 customers 
