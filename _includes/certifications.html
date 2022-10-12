@@ -14,7 +14,14 @@
     <div class="meta">
 
       <div class="upper-row">
-        <h3 class="job-title">{{ certification.name }}</h3>
+        <!-- <h3 class="job-title">{{ certification.name }}</h3> -->
+        <span class="project-title">
+          {% if certification.link %}
+          <a href="{{ certification.link }}" target="_blank">{{ certification.name }}</a>
+          {% else %}
+          {{ certification.name }}
+          {% endif %}
+        </span>
         <div class="time">{{ certification.dates }}</div>
       </div><!--//upper-row-->
 
