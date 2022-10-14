@@ -1,8 +1,8 @@
-= CAREER PROFILE
+# CAREER PROFILE
 
 I love Automation, Open Source, and Linux. The perfect combination of these three are Ansible and Terraform with a bit of Kubernetes. I also love to problem solve while to designing and building solutions.
 
-== EXPERIENCES
+## EXPERIENCES
 
 Ansible Automation Architect
 Jan 2021 - Present
@@ -73,7 +73,7 @@ NDTI, Ridgecrest, CA
   - Working with VMS systems
   - Scanning and hardening Windows OS using Retina and manually installing updates
 
-== CERTIFICATIONS
+## CERTIFICATIONS
 
   - Red Hat Certified Architect Feb 2022 - Mar 2024
   - RHCS in Advanced Automation: Ansible Best Practices Mar 2021 - Mar 2024
@@ -84,7 +84,7 @@ NDTI, Ridgecrest, CA
   - Red Hat Certified Engineer Feb 2021 - Feb 2025
   - Red Hat Certified System Administrator Jan 2021 - Feb 2025
 
-== PROJECTS
+## PROJECTS
 
 Here are some Ansible Collections and Open Source Projects that I help contribute to/or maintain.
 
@@ -93,7 +93,7 @@ Here are some Ansible Collections and Open Source Projects that I help contribut
   - Automation Automation Platform utilities - AAP automation deployment collection
   - Execution Environment utilities - Automating building and publishing of EEs
 
-== PUBLICATIONS & PRESENTATIONS
+## PUBLICATIONS & PRESENTATIONS
 
 Here are some of the talks that I have presented.
 
@@ -105,7 +105,7 @@ Working with complex APIs: when no modules exist
 Vinny Valdez, David Danielsson
 AnsibleFest 2021
 
-== SKILLS & PROFICIENCY
+## SKILLS & PROFICIENCY
 
   - Problem solving
   - Ansible
