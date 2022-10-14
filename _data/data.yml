@@ -193,13 +193,22 @@ certifications:
         details:
 
 projects:
-    title: Certifications
+    title: Projects
     intro: >
-      Here is the list of my active certifications.
+      Here are some Ansible Collections and Open Source Projects that I help contribute to/or maintain.
     assignments:
-      - title: Red Hat Certified Specialist in Containers and Kubernetes
-        link: https://www.credly.com/badges/1406dc54-3fa9-44f3-b802-4643ac8d837a
-        tagline:
+      - title: Controller Configuration
+        link: https://github.com/redhat-cop/controller_configuration
+        tagline: AAP/AWX configuration as code standarization collection
+      - title: Automation Hub Configuration
+        link: https://github.com/redhat-cop/ah_configuration
+        tagline: PAH/GalaxyNG configuration as code standarization collection
+      - title: Automation Automation Platform utilities
+        link: https://github.com/redhat-cop/aap_utilities
+        tagline: AAP automation deployment collection
+      - title: Execution Environment utilities
+        link: https://github.com/redhat-cop/ee_utilities
+        tagline: Automating building and publishing of EEs
 
 publications:
     title: Publications & Presentations
